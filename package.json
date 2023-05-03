@@ -1,0 +1,17 @@
+{
+  "name": "cl-tpg",
+  "version": "1.0.0",
+  "description": "Command Line tool to generate a team profile website",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
